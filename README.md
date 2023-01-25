@@ -1,2 +1,1 @@
-# PRO-C173-AR
-After class project solution for C173
+# PROJECT-C173-AR
